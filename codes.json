@@ -16,7 +16,7 @@
   "FREESEEDS": {
     "enabled": true,
     "rewards": [
-      { "type": "SpecificSeed", "seedType": "BasicCorn", "amount": 10, "toolName": "Corn Seeds" }
+      { "type": "SpecificSeed", "seedType": "Corn", "amount": 10, "toolName": "Corn Seeds" }
     ],
     "description": "You received 10 Corn Seeds!"
   },
@@ -30,7 +30,7 @@
   "FREESEEDS1": {
     "enabled": true,
     "rewards": [
-      { "type": "SpecificSeed", "seedType": "BasicCorn", "amount": 10, "toolName": "Corn Seeds" }
+      { "type": "SpecificSeed", "seedType": "Corn", "amount": 10, "toolName": "Corn Seeds" }
     ],
     "description": "You received 10 Corn Seeds!"
   },
