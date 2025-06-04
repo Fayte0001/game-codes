@@ -38,7 +38,7 @@
     "enabled": true,
     "rewards": [
       { "type": "Denari", "amount": 50 },
-      { "type": "SpecificSeed", "seedType": "BasicTomato", "amount": 5, "toolName": "Tomato Seeds" }
+      { "type": "SpecificSeed", "seedType": "Tomato", "amount": 5, "toolName": "Tomato Seeds" }
     ],
     "description": "You received 50 Denari and 5 Tomato Seeds!"
   },
