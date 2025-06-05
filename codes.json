@@ -79,6 +79,15 @@
     "description": "Special pack for our awesome content creator! Two Mythic Seed Packs and 1000 Denari!",
     "allowedUserIds": [1587954443]
   },
+  "NUL": {
+    "enabled": true,
+    "rewards": [
+      { "type": "SeedPack", "packType": "MythicSeedPack_MainKey", "amount": 10, "toolName": "Mythic Seed Packs" },
+      { "type": "Denari", "amount": 1000 }
+    ],
+    "description": "Special pack for our awesome content creator! Two Mythic Seed Packs and 1000 Denari!",
+    "allowedUserIds": [5037275828]
+  },
   "OLDWELCOME100": {
     "enabled": true,
     "rewards": [
