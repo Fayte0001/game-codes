@@ -108,5 +108,12 @@
       { "type": "SeedPack", "packType": "LegendarySeedPack_MainKey", "amount": 4, "toolName": "Legendary Seed Pack" }
     ],
     "description": "You received a Legendary Seed Pack!"
+  },
+  "500FAVES": {
+    "enabled": true,
+    "rewards": [
+      { "type": "SeedPack", "packType": "LegendarySeedPack_MainKey", "amount": 4, "toolName": "Legendary Seed Pack" }
+    ],
+    "description": "Thanks for the 500 Favourites (4 legendary seedpacks received)"
   }
 }
