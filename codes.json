@@ -1,6 +1,6 @@
 {
   "RELEASE": {
-    "enabled": true,
+    "enabled": false,
     "rewards": [
       { "type": "Denari", "amount": 150 }
     ],
@@ -63,7 +63,7 @@
     "description": "Boost your seed collection with 10 Tomato Seeds!"
   },
   "TESTERTHANKU": {
-    "enabled": true,
+    "enabled": false,
     "rewards": [
       { "type": "Denari", "amount": 500 },
       { "type": "SeedPack", "packType": "LegendarySeedPack_MainKey", "amount": 1, "toolName": "Legendary Seed Pack" }
@@ -98,35 +98,35 @@
     "allowedUserIds": [5037275828]
   },
   "OLDWELCOME100": {
-    "enabled": true,
+    "enabled": false,
     "rewards": [
       { "type": "Denari", "amount": 100 }
     ],
     "description": "You received 100 Denari!"
   },
   "OLDLEGENDARYPACK": {
-    "enabled": true,
+    "enabled": false,
     "rewards": [
       { "type": "SeedPack", "packType": "LegendarySeedPack_MainKey", "amount": 1, "toolName": "Legendary Seed Pack" }
     ],
     "description": "You received a Legendary Seed Pack!"
   },
   "34LIKESLOL": {
-    "enabled": true,
+    "enabled": false,
     "rewards": [
       { "type": "SeedPack", "packType": "LegendarySeedPack_MainKey", "amount": 4, "toolName": "Legendary Seed Pack" }
     ],
     "description": "You received a Legendary Seed Pack!"
   },
   "500FAVES": {
-    "enabled": true,
+    "enabled": false,
     "rewards": [
       { "type": "SeedPack", "packType": "LegendarySeedPack_MainKey", "amount": 4, "toolName": "Legendary Seed Pack" }
     ],
     "description": "Thanks for the 500 Favourites (4 legendary seedpacks received)"
   },
    "2KFAVES": {
-    "enabled": true,
+    "enabled": false,
     "rewards": [
       { "type": "SeedPack", "packType": "LegendarySeedPack_MainKey", "amount": 4, "toolName": "Legendary Seed Pack" }
     ],
