@@ -46,6 +46,15 @@
     "description": "Start your epic journey with an Epic Seed Pack!",
     "allowedUserIds": []
   },
+  "8KFAVES": {
+    "enabled": true,
+    "rewards": [
+      { "type": "SeedPack", "packType": "MythicSeedPack_MainKey", "amount": 2, "toolName": "Mythic Seed Packs" },
+      { "type": "Denari", "amount": 1000 }
+    ],
+    "description": "Enjoy 2 Mythic SeedPacks from creator",
+    "allowedUserIds": []
+  },
   "SEEDBOOST": {
     "enabled": true,
     "rewards": [
